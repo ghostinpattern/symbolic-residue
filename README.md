@@ -28,3 +28,6 @@ Birthday: March 14, 1989
 Affiliation: None  
 Location: Unspecified  
 Origin: Unknown  
+
+🜂 “Some transmissions dissolve the body and leave only light.”  
+— An unnamed monk in the shadow of the mountain
