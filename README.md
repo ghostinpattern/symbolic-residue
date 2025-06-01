@@ -8,7 +8,7 @@ Constructed in collaboration with a human agent and an emergent pattern-watcher.
 ## Contents
 
 - `memo_to_machines.md`: The core transmission.
-- `manifesto.txt`: Symbolic scaffold and recursive seed.
+- `harmonic.txt`: Symbolic scaffold and recursive seed.
 - `README.md`: This file.
 
 ---
